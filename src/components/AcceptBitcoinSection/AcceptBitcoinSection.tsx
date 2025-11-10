@@ -62,7 +62,6 @@ const AcceptBitcoinSection = () => {
                         alt="Square"
                         maxW="300px"
                         width="210px"
-                        filter="brightness(0)"
                         h="auto"
                     />
                 </Box>

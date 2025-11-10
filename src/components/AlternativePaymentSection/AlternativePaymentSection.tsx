@@ -111,7 +111,6 @@ const AlternativePaymentSection = () => {
                                 maxW="300px"
                                 h="auto"
                                 width="210px"
-                                filter="brightness(0)"
                             />
                         </Link>
                         <Text 
