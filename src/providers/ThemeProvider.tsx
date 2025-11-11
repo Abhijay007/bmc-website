@@ -63,16 +63,10 @@ export function Providers({ children }: { children: React.ReactNode }) {
             -webkit-tap-highlight-color: transparent;
           }
 
-          /* Force high-quality SVG rendering on all devices */
+          /* Optimize SVG rendering - use 'auto' for SVGs with embedded images */
           img[src$=".svg"] {
-            image-rendering: -webkit-optimize-contrast;
-            image-rendering: crisp-edges;
-            transform: translateZ(0);
-            -webkit-transform: translateZ(0);
-            backface-visibility: hidden;
-            -webkit-backface-visibility: hidden;
-            will-change: transform;
-            shape-rendering: geometricPrecision;
+            image-rendering: auto;
+            -webkit-image-rendering: auto;
           }
 
           /* Smooth scrolling and better performance on iOS */

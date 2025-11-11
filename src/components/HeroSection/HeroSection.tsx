@@ -61,13 +61,17 @@ const HeroSection = () => {
                         width={{ base: "280px", sm: "400px", md: "500px", lg: "600px", xl: "800px" }}
                         maxW="100%"
                     >
-                        <Image 
+                        <Box
+                            as="img"
                             src="/assets/HeroImages/HeroImage.svg"
                             alt="3% melting"
                             width="100%"
                             height="auto"
-                            loading="eager"
-                            draggable={false}
+                            sx={{
+                                imageRendering: 'auto',
+                                WebkitUserSelect: 'none',
+                                userSelect: 'none',
+                            }}
                         />
                     </Box>
                 </Flex>
