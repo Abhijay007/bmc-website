@@ -14,8 +14,8 @@ const FAQSection = () => {
                 {/* Main Heading */}
                 <Heading
                     as="h2"
-                    fontSize={{ base: "36px", md: "44px", lg: "44px", xl: "32px" }}
-                    fontWeight="900"
+                    fontSize={{ base: "32px", md: "40px", lg: "40px", xl: "32px" }}
+                    fontWeight="700"
                     lineHeight="1.2"
                     mb={{ base: "40px", md: "60px" }}
                     color="black"
