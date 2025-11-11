@@ -181,7 +181,7 @@ const AlternativePaymentSection = () => {
                     >
                         If you want to learn more about getting up and running with one of these options, join our friendly{' '}
                         <Link 
-                            href="https://www.facebook.com/groups/bitcoinmerchantcommunity" 
+                            href="https://www.facebook.com/groups/bitcoinmerchants/" 
                             color="black" 
                             fontWeight="700"
                             textDecoration="underline"

@@ -297,7 +297,7 @@ But offering discounts for purchasing in bitcoin can be an obvious extra nudge t
                             >
                                 Ask the Bitcoin Merchant Community's{' '}
                                 <Link
-                                    href="https://www.facebook.com/groups/bitcoinmerchantcommunity"
+                                    href="https://www.facebook.com/groups/bitcoinmerchants/"
                                     color="black"
                                     fontWeight="700"
                                     textDecoration="underline"

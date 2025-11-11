@@ -51,7 +51,7 @@ const Footer = () => {
                         <Flex gap={4} align="center">
                             {/* Facebook */}
                             <Link 
-                                href="https://www.facebook.com/groups/bitcoinmerchantcommunity" 
+                                href="https://www.facebook.com/groups/bitcoinmerchants/" 
                                 isExternal
                                 _hover={{ opacity: 0.7 }}
                                 transition="opacity 0.2s"

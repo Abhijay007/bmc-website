@@ -54,7 +54,7 @@ const CommunitySection = () => {
                         </Text>
 
                         <Button
-                            onClick={() => window.open("https://www.facebook.com/groups/bitcoinmerchantcommunity", "_blank")}
+                            onClick={() => window.open("https://www.facebook.com/groups/bitcoinmerchants/", "_blank")}
                             bg="#FFC533"
                             color="black"
                             fontSize="16px"

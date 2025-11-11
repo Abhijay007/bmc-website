@@ -61,7 +61,7 @@ const OnboardMerchantsSection = () => {
                         </Text>
 
                         <Link 
-                            href="#" 
+                            href="https://raw.githubusercontent.com/bitcoinmerchants/marketing-assets/main/Merchant%20Onbaording%20Kit.pdf" 
                             fontSize={{ base: "16px", md: "20px" }}
                             fontWeight="700"
                             color="black"
@@ -70,6 +70,8 @@ const OnboardMerchantsSection = () => {
                             alignItems="center"
                             gap={2}
                             _hover={{ color: "#00A651" }}
+                            download="Merchant_Onboarding_Kit.pdf"
+                            isExternal
                         >
                             Download the kit
                             <DownloadIcon />

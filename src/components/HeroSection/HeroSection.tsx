@@ -100,7 +100,7 @@ const HeroSection = () => {
                             </Button>
 
                             <Button
-                                onClick={() => window.open("https://www.facebook.com/groups/bitcoinmerchantcommunity", "_blank")}
+                                onClick={() => window.open("https://www.facebook.com/groups/bitcoinmerchants/", "_blank")}
                                 bg="white"
                                 color="black"
                                 fontSize={{ base: "14px", md: "16px", lg: "16px", xl: "16px" }}
