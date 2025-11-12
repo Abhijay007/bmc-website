@@ -70,34 +70,7 @@ const AlternativePaymentSection = () => {
                         </Text>
                     </Box>
 
-                    {/* Blink
-                    <Box>
-                        <Link 
-                            href="https://www.blink.sv/"
-                            isExternal
-                            display="flex"
-                            alignItems="center"
-                            mb={4}
-                            height="60px"
-                            _hover={{ opacity: 0.7 }}
-                            transition="opacity 0.2s"
-                        >
-                            <Image 
-                                src="/assets/CompanyImages/blinkLogo.png"
-                                alt="Blink"
-                                maxW="120px"
-                                h="auto"
-                            />
-                        </Link>
-                        <Text 
-                            fontSize={{ base: "16px", md: "20px" }}
-                            lineHeight="1.4"
-                            color="black"
-                            maxW="450px"
-                        >
-                            Blink Wallet is a custodial bitcoin wallet for mobile with simple point-of-sale features and easy setup.
-                        </Text>
-                    </Box> */}
+                   
 
                     {/* Zaprite
                     <Box>
@@ -160,6 +133,65 @@ const AlternativePaymentSection = () => {
                             maxW="450px"
                         >
                             For tech-savvy merchants, BTCPay Server is a highly customizable, open-source alternative that needs to be hosted on your own server, or one you trust.
+                        </Text>
+                    </Box>
+
+                    {/* manna pay */}
+                    <Box>
+                        <Link 
+                            href="https://mannabitcoin.com/"
+                            isExternal
+                            display="flex"
+                            alignItems="center"
+                            mb={8}
+                            height="60px"
+                            _hover={{ opacity: 0.7 }}
+                            transition="opacity 0.2s"
+                        >
+                            <Image 
+                                src="/assets/CompanyImages/mannaLogo.svg"
+                                alt="Manna Pay"
+                                maxW="120px"
+                                h="auto"
+                            />
+                        </Link>
+                        <Text 
+                            fontSize={{ base: "16px", md: "20px" }}
+                            lineHeight="1.4"
+                            color="black"
+                            maxW="450px"
+                        >
+                            Manna is a simple mobile wallet with a built-in point-of-sale interface, allowing you to quickly start accepting instant bitcoin payments without providing any personal information.
+                        </Text>
+                                
+                    </Box>
+
+                     {/* Blink */}
+                     <Box>
+                        <Link 
+                            href="https://www.blink.sv/"
+                            isExternal
+                            display="flex"
+                            alignItems="center"
+                            mb={8}
+                            height="60px"
+                            _hover={{ opacity: 0.7 }}
+                            transition="opacity 0.2s"
+                        >
+                            <Image 
+                                src="/assets/CompanyImages/blinkLogo.png"
+                                alt="Blink"
+                                maxW="120px"
+                                h="auto"
+                            />
+                        </Link>
+                        <Text 
+                            fontSize={{ base: "16px", md: "20px" }}
+                            lineHeight="1.4"
+                            color="black"
+                            maxW="450px"
+                        >
+                            Blink is a reliable mobile wallet for merchants, featuring a simple web-based point-of-sale interface for accepting instant bitcoin payments and has an optional stable-dollar account.
                         </Text>
                     </Box>
 
