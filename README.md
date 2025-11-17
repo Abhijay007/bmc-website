@@ -15,7 +15,7 @@ We welcome everyone’s feedback and contributions.
 
 The BMC seeks to include a variety of point-of-sale solutions that allow merchants to accept bitcoin payments irrespective of which system they currently use or where they may be located. The solution should demonstrate evidence of adoption, ease of use, and/or other unique value propositions.
 
-If you're a Bitcoin POS software vendor, please [contract the BMC](mailto:bitcoinmerchants@spiral.xyz) and describe how your solution meets the following inclusion criteria: 
+If you're a Bitcoin POS software vendor, please [contact the BMC](mailto:bitcoinmerchants@spiral.xyz) and describe how your solution meets the following inclusion criteria: 
 
 **1. Targets bitcoin payment acceptance in the in-person retail use case**
  - Provide evidence of in-person retail merchant adoption.
