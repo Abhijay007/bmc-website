@@ -11,7 +11,7 @@ We welcome feedback and contributions to the BMC website and community.
 - If you have a suggstions for improving the website, please raise Github issues on this repository. 
 - If you are a merchant looking to engage with other merchants, the BMC [Facebook Group](https://www.facebook.com/groups/bitcoinmerchants) is the best place to do that.
 - If you are a designer with a suggestion for improving the marketing asset the BMC makes available publicly, visit the [marketing-assets repo](https://github.com/bitcoinmerchants/marketing-assets/) where can find links design templates.
-- If you are a bitcoiner wanting to connect with other bitcoiners who have been engaging local merchants about bitcoin, join the [BMC Bitcoiner Google Group](http://#) to discuss. 
+- If you are a bitcoiner wanting to connect with other bitcoiners who have been engaging local merchants about bitcoin, join the BMC Bitcoiner Google Group (COMING SOON) to discuss. 
 
 ## Criteria for bitcoin POS solutions to be included on the BMC website
 
